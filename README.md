@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/66280875/89349577-c3f71b00-d684-11ea-8d32-f5b4535c7621.png)
+![image](https://user-images.githubusercontent.com/66280875/89350219-ffdeb000-d685-11ea-8236-6f7ed3b1ca77.png)
 
 # Next Level Week 2 - Trilha Discovery :rocket:
 
@@ -47,3 +47,4 @@ Em resumo alguns aprendizados durante a NLW:
 
 ![image](https://user-images.githubusercontent.com/66280875/89349517-ad50c400-d684-11ea-8d59-84bdf37212fb.png)
 
+![image](https://user-images.githubusercontent.com/66280875/89349577-c3f71b00-d684-11ea-8d32-f5b4535c7621.png)
