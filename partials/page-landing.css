@@ -1,0 +1,99 @@
+:root {  
+    font-size: 40%; 
+}
+
+#page-landing {
+    background-color: #BAF2E5 ;
+    color: #BCBAF2 ;
+}
+
+.up .logo {
+    text-align: center;
+    margin-bottom: 3.2rem;
+}
+.up .logo  img  {
+    height: 10rem;
+}
+
+.up p {
+    font: 500 3.6rem Poppins;    
+    line-height: 4.6rem;
+    margin-top: 0.8rem;
+    color: #BCBAF2 ;
+}
+
+#container .image img{   
+    width: 100%;
+}
+
+
+.down .buttons {
+    display: flex;
+    justify-content: center;
+    margin: 3.2rem 0 ;
+}
+
+.down .buttons a {
+    background-color: #C7BAF2;
+    color: var(--color-button-text);
+    width: 30rem;
+    height: 12rem;
+    margin-right: 1.6rem;
+    font: 700 2.6rem Poppins;
+    border: none;
+    border-radius: 0.8rem;
+    cursor: pointer;
+    text-decoration: none;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background 0.5s;
+}
+
+.down .buttons a img {
+    width: 4rem;
+    margin-right: 1.5rem;
+}
+.down .buttons a.study {
+    background-color: #C7BAF2;
+}
+
+.down a.study:hover {
+    background-color: #F2D5BA    ;
+    
+}
+.down .buttons a.give-classes {
+    background-color: #F2BAC9;
+    margin-right: 0;
+}
+
+.down a.give-classes:hover {
+    background-color: #F2D5BA    ;
+    
+}
+
+.down p {
+    font: 500 2rem Poppins;
+    color: #BCBAF2 ;
+}
+
+.down .total {
+    margin-right: 100px;
+}
+
+.total-conections {
+    font-size: 1.8rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+/* Para desktop*/
+
+@media (min-width: 1100px) {
+
+    #page-landing #container {
+        max-width: 1100px;
+    }
+}
