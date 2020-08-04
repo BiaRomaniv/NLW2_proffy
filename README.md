@@ -38,3 +38,12 @@ Em resumo alguns aprendizados durante a NLW:
 
  
 ### Status do Projeto: :construction: Primeiros 2 dias da NLW! 
+
+### Imagens do projeto:
+
+![image](https://user-images.githubusercontent.com/66280875/89349420-88f4e780-d684-11ea-8449-f8f22a6a8ea1.png)
+
+![image](https://user-images.githubusercontent.com/66280875/89349480-9c07b780-d684-11ea-8c3a-5f21f3d6e074.png)
+
+![image](https://user-images.githubusercontent.com/66280875/89349517-ad50c400-d684-11ea-8d59-84bdf37212fb.png)
+
