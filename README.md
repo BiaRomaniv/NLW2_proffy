@@ -37,7 +37,7 @@ Em resumo alguns aprendizados durante a NLW:
 :heavy_check_mark: Descobrindo novas oportunidades
 
  
-### Status do Projeto: :construction: Primeiros 2 dias da NLW! 
+### Status do Projeto: :construction: 
 
 ### Imagens do projeto:
 
