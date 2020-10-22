@@ -39,7 +39,8 @@ Em resumo alguns aprendizados durante a NLW:
  
 ### Status do Projeto: :construction: 
 
-### Imagens do projeto:
+### Imagens do projeto: https://www.behance.net/gallery/106485721/Proffy-Plataforma-de-estudos
+
 
 ![NewGIF (1)](https://user-images.githubusercontent.com/66280875/89350549-a034d480-d686-11ea-964b-866ae66573df.gif)
 
